@@ -1,5 +1,7 @@
 # Burhan Çiçek
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 Mobile developer based in Istanbul. 6+ years of building mobile apps: Flutter today, Xamarin before it.
 
 These days I work on fintech: a stock trading app with remote customer onboarding (KYC), money transfer and order flows, and a Flutter + .NET 8 investment simulation game.
