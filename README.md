@@ -1,16 +1,19 @@
-## Hi there 👋
+# Burhan Çiçek
 
-<!--
-**brhncck/brhncck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile developer based in Istanbul. 6+ years of building mobile apps: Flutter today, Xamarin before it.
 
-Here are some ideas to get you started:
+These days I work on fintech: a stock trading app with remote customer onboarding (KYC), money transfer and order flows, and a Flutter + .NET 8 investment simulation game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+
+- Flutter and Dart: BLoC, get_it, auto_route, Dio
+- Native bridges: Kotlin and Swift through platform channels, Flutter add-to-app modules
+- Mobile security: SSL pinning, secure storage, biometric login, root/jailbreak detection
+- Releases: GitHub Actions, Firebase (App Distribution, Crashlytics, Remote Config), TestFlight, Google Play Console
+- Backend: .NET 8, ASP.NET Core
+
+**Public projects**
+
+- [my_base_app](https://github.com/brhncck/my_base_app): Flutter starter with dev/qa/prod flavors, BLoC, DI, routing, light/dark theme, TR/EN localization and integration tests
+
+**Contact:** brhn_cck@outlook.com
